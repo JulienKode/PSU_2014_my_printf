@@ -1,0 +1,29 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Nov 13 16:18:07 2014
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/rendu/printf/include/"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/karst_j/rendu/printf/include/my_printf.h"
+  "my_printf.h"
+  'c-mode
+  '(abbrev-mode hs-minor-mode)
+  486
+  '(486 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
